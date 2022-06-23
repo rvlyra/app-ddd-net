@@ -1,0 +1,136 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "app.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "app.Shared": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/app.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/app.Domain.dll": {}
+        }
+      },
+      "app.Infra/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "app.Domain": "1.0.0",
+          "app.Shared": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/app.Infra.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/app.Infra.dll": {}
+        }
+      },
+      "app.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/app.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/app.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "app.Domain/1.0.0": {
+      "type": "project",
+      "path": "../app.Domain/app.Domain.csproj",
+      "msbuildProject": "../app.Domain/app.Domain.csproj"
+    },
+    "app.Infra/1.0.0": {
+      "type": "project",
+      "path": "../app.Infra/app.Infra.csproj",
+      "msbuildProject": "../app.Infra/app.Infra.csproj"
+    },
+    "app.Shared/1.0.0": {
+      "type": "project",
+      "path": "../app.Shared/app.Shared.csproj",
+      "msbuildProject": "../app.Shared/app.Shared.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "app.Domain >= 1.0.0",
+      "app.Infra >= 1.0.0",
+      "app.Shared >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/home/rvlyra/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/home/rvlyra/DEV/GitProjects/ghub/app-ddd-net/app.Api/app.Api.csproj",
+      "projectName": "app.Api",
+      "projectPath": "/home/rvlyra/DEV/GitProjects/ghub/app-ddd-net/app.Api/app.Api.csproj",
+      "packagesPath": "/home/rvlyra/.nuget/packages/",
+      "outputPath": "/home/rvlyra/DEV/GitProjects/ghub/app-ddd-net/app.Api/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/home/rvlyra/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "/home/rvlyra/DEV/GitProjects/ghub/app-ddd-net/app.Domain/app.Domain.csproj": {
+              "projectPath": "/home/rvlyra/DEV/GitProjects/ghub/app-ddd-net/app.Domain/app.Domain.csproj"
+            },
+            "/home/rvlyra/DEV/GitProjects/ghub/app-ddd-net/app.Infra/app.Infra.csproj": {
+              "projectPath": "/home/rvlyra/DEV/GitProjects/ghub/app-ddd-net/app.Infra/app.Infra.csproj"
+            },
+            "/home/rvlyra/DEV/GitProjects/ghub/app-ddd-net/app.Shared/app.Shared.csproj": {
+              "projectPath": "/home/rvlyra/DEV/GitProjects/ghub/app-ddd-net/app.Shared/app.Shared.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.301/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
