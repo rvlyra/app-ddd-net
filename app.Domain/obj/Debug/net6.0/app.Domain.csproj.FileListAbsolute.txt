@@ -1,0 +1,15 @@
+/home/rvlyra/DEV/GitProjects/ghub/app-ddd-net/app.Domain/bin/Debug/net6.0/app.Domain.deps.json
+/home/rvlyra/DEV/GitProjects/ghub/app-ddd-net/app.Domain/bin/Debug/net6.0/app.Domain.dll
+/home/rvlyra/DEV/GitProjects/ghub/app-ddd-net/app.Domain/bin/Debug/net6.0/app.Domain.pdb
+/home/rvlyra/DEV/GitProjects/ghub/app-ddd-net/app.Domain/bin/Debug/net6.0/app.Shared.dll
+/home/rvlyra/DEV/GitProjects/ghub/app-ddd-net/app.Domain/bin/Debug/net6.0/app.Shared.pdb
+/home/rvlyra/DEV/GitProjects/ghub/app-ddd-net/app.Domain/obj/Debug/net6.0/app.Domain.csproj.AssemblyReference.cache
+/home/rvlyra/DEV/GitProjects/ghub/app-ddd-net/app.Domain/obj/Debug/net6.0/app.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/rvlyra/DEV/GitProjects/ghub/app-ddd-net/app.Domain/obj/Debug/net6.0/app.Domain.AssemblyInfoInputs.cache
+/home/rvlyra/DEV/GitProjects/ghub/app-ddd-net/app.Domain/obj/Debug/net6.0/app.Domain.AssemblyInfo.cs
+/home/rvlyra/DEV/GitProjects/ghub/app-ddd-net/app.Domain/obj/Debug/net6.0/app.Domain.csproj.CoreCompileInputs.cache
+/home/rvlyra/DEV/GitProjects/ghub/app-ddd-net/app.Domain/obj/Debug/net6.0/app.Domain.csproj.CopyComplete
+/home/rvlyra/DEV/GitProjects/ghub/app-ddd-net/app.Domain/obj/Debug/net6.0/app.Domain.dll
+/home/rvlyra/DEV/GitProjects/ghub/app-ddd-net/app.Domain/obj/Debug/net6.0/refint/app.Domain.dll
+/home/rvlyra/DEV/GitProjects/ghub/app-ddd-net/app.Domain/obj/Debug/net6.0/app.Domain.pdb
+/home/rvlyra/DEV/GitProjects/ghub/app-ddd-net/app.Domain/obj/Debug/net6.0/ref/app.Domain.dll

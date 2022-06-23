@@ -1,0 +1,12 @@
+/home/rvlyra/DEV/GitProjects/ghub/app-ddd-net/app.Shared/bin/Debug/net6.0/app.Shared.deps.json
+/home/rvlyra/DEV/GitProjects/ghub/app-ddd-net/app.Shared/bin/Debug/net6.0/app.Shared.dll
+/home/rvlyra/DEV/GitProjects/ghub/app-ddd-net/app.Shared/bin/Debug/net6.0/app.Shared.pdb
+/home/rvlyra/DEV/GitProjects/ghub/app-ddd-net/app.Shared/obj/Debug/net6.0/app.Shared.csproj.AssemblyReference.cache
+/home/rvlyra/DEV/GitProjects/ghub/app-ddd-net/app.Shared/obj/Debug/net6.0/app.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/home/rvlyra/DEV/GitProjects/ghub/app-ddd-net/app.Shared/obj/Debug/net6.0/app.Shared.AssemblyInfoInputs.cache
+/home/rvlyra/DEV/GitProjects/ghub/app-ddd-net/app.Shared/obj/Debug/net6.0/app.Shared.AssemblyInfo.cs
+/home/rvlyra/DEV/GitProjects/ghub/app-ddd-net/app.Shared/obj/Debug/net6.0/app.Shared.csproj.CoreCompileInputs.cache
+/home/rvlyra/DEV/GitProjects/ghub/app-ddd-net/app.Shared/obj/Debug/net6.0/app.Shared.dll
+/home/rvlyra/DEV/GitProjects/ghub/app-ddd-net/app.Shared/obj/Debug/net6.0/refint/app.Shared.dll
+/home/rvlyra/DEV/GitProjects/ghub/app-ddd-net/app.Shared/obj/Debug/net6.0/app.Shared.pdb
+/home/rvlyra/DEV/GitProjects/ghub/app-ddd-net/app.Shared/obj/Debug/net6.0/ref/app.Shared.dll

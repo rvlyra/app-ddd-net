@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "app.Infra/1.0.0": {
+        "dependencies": {
+          "app.Domain": "1.0.0",
+          "app.Shared": "1.0.0"
+        },
+        "runtime": {
+          "app.Infra.dll": {}
+        }
+      },
+      "app.Domain/1.0.0": {
+        "dependencies": {
+          "app.Shared": "1.0.0"
+        },
+        "runtime": {
+          "app.Domain.dll": {}
+        }
+      },
+      "app.Shared/1.0.0": {
+        "runtime": {
+          "app.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "app.Infra/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "app.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "app.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
